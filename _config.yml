@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "유은진"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # /assets/images/은진프사.png # path of avatar image, e.g. "/assets/images/은진프사.png"
   bio              : "용인한국외국어대학교부설고등학교 2학년 2반 22번 유은진"
   location         : "대한민국. 서울"
   email            : "21-20222@hafs.hs.kr"
